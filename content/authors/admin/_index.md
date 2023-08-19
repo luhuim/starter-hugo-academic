@@ -1,6 +1,6 @@
 ---
 title: Huimin Lu
-role: "Master student of Bioinformatics in Lund University  "
+role: "Master student of Bioinformatics "
 bio: I'm currently doing my master thesis about using deep learning in peptide
   de novo sequencing by mass spectrometry proteomics
 interests:
@@ -25,15 +25,12 @@ organizations:
     url: https://www.lunduniversity.lu.se/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Bioinformatics
+      institution: Lund University, Sweden
+      year: ""
+    - course: Bechalor Degree in Clinical Medicine
+      institution: Shanci Medical University, China
+      year: ""
 superuser: true
 status:
   icon: ☕️
